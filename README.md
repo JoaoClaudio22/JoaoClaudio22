@@ -3,7 +3,7 @@
  * 📖 Atualmente tenho conhecimento em HTML & CSS e Javascript
  * 💞️ Tenho interesse em React 
 
-
+##
 <div align="center">
   <a href="https://github.com/JoaoClaudio22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoClaudio22&show_icons=true&theme=merko"/>
