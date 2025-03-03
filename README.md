@@ -1,5 +1,4 @@
 ## 👋 E ai! Eu sou o João Cláudio.</h1>
- * 🚀 Sou um aspirante a front-end developer!
  * 🤓 Estudante de Sistema de Informação
  * 📖 Atualmente tenho conhecimento em HTML & CSS, Javascript e ReactJs
  * 💻 Estou estudando Typescript e Java Spring Boot 
